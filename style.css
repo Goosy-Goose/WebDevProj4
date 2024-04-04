@@ -1,0 +1,27 @@
+body {
+    padding: 10px;
+    height: 100vh;
+    overflow: hidden;
+    margin: 0;
+    font-family: monospace;
+    display: flex;
+    /* background: rgb(2,0,36); */
+    background: linear-gradient(30deg, rgba(206, 0, 199, 0.69) 0%, rgba(255, 162, 0, 0.69) 100%);
+}
+
+#generator {
+    padding-top: 10vh;
+    padding-left: 3vw;
+    background-color: rgba(127, 255, 212, 0.319);
+    width: 49%;
+}
+
+h1 {
+    font-size: 5vh;
+}
+h3 {
+    font-size: 3vh;
+}
+p {
+    font-size: 2.2vh;
+}
